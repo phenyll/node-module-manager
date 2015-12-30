@@ -1,0 +1,26 @@
+{
+  "name": "node-module-manager",
+  "version": "1.0.0",
+  "description": "mounts npm modules in the current project at runtime and fetches them if they aren't available locally yet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phenyll/node-module-manager.git"
+  },
+  "keywords": [
+    "nodejs",
+    "module",
+    "manager",
+    "fetch",
+    "runtime"
+  ],
+  "author": "phenyll",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/phenyll/node-module-manager/issues"
+  },
+  "homepage": "https://github.com/phenyll/node-module-manager#readme"
+}
